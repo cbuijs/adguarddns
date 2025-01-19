@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1737159511 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1737245912 12h 15m 3w 3h
 0.code.cotsta.ru IN CNAME .
 *.0.code.cotsta.ru IN CNAME .
 0.myikas.com IN CNAME .
@@ -1708,8 +1708,6 @@ $TTL 3600
 *.5cf8606941.com IN CNAME .
 5e1b8e9d68.com IN CNAME .
 *.5e1b8e9d68.com IN CNAME .
-5e49fd4c08.com IN CNAME .
-*.5e49fd4c08.com IN CNAME .
 5e6ef8e03b.com IN CNAME .
 *.5e6ef8e03b.com IN CNAME .
 5ea36e0eb5.com IN CNAME .
@@ -1918,8 +1916,6 @@ $TTL 3600
 *.6ca9278a53.com IN CNAME .
 6ce02869b9.com IN CNAME .
 *.6ce02869b9.com IN CNAME .
-6dc2699b37.com IN CNAME .
-*.6dc2699b37.com IN CNAME .
 6de72955d8.com IN CNAME .
 *.6de72955d8.com IN CNAME .
 6e391732a2.com IN CNAME .
@@ -15496,6 +15492,8 @@ bjakku.com IN CNAME .
 *.bjakku.com IN CNAME .
 bjiuck.com IN CNAME .
 *.bjiuck.com IN CNAME .
+bjjky.cfd IN CNAME .
+*.bjjky.cfd IN CNAME .
 bjqug.xyz IN CNAME .
 *.bjqug.xyz IN CNAME .
 bjrspnbf.xyz IN CNAME .
@@ -30862,8 +30860,6 @@ eejipukaijy.net IN CNAME .
 *.eejipukaijy.net IN CNAME .
 eekeeghoolsy.com IN CNAME .
 *.eekeeghoolsy.com IN CNAME .
-eekqdetpwnlj.com IN CNAME .
-*.eekqdetpwnlj.com IN CNAME .
 eekreeng.com IN CNAME .
 *.eekreeng.com IN CNAME .
 eekrogrameety.net IN CNAME .
@@ -35600,6 +35596,8 @@ freewebcams.com IN CNAME .
 *.freewebcams.com IN CNAME .
 freewebfonts.org IN CNAME .
 *.freewebfonts.org IN CNAME .
+freeweblogger.com IN CNAME .
+*.freeweblogger.com IN CNAME .
 freewheel-mtgx-tv.akamaized.net IN CNAME .
 *.freewheel-mtgx-tv.akamaized.net IN CNAME .
 freezedispense.com IN CNAME .
@@ -37556,6 +37554,8 @@ glaghoowingauck.net IN CNAME .
 *.glaghoowingauck.net IN CNAME .
 glaickoxaksy.com IN CNAME .
 *.glaickoxaksy.com IN CNAME .
+glaicmauxoah.net IN CNAME .
+*.glaicmauxoah.net IN CNAME .
 glaidalr.net IN CNAME .
 *.glaidalr.net IN CNAME .
 glaidekeemp.net IN CNAME .
@@ -39466,6 +39466,8 @@ gzihfaatdohk.com IN CNAME .
 *.gzihfaatdohk.com IN CNAME .
 gzqihxnfhq.com IN CNAME .
 *.gzqihxnfhq.com IN CNAME .
+h-bid.com IN CNAME .
+*.h-bid.com IN CNAME .
 h-cast.jp IN CNAME .
 *.h-cast.jp IN CNAME .
 h-zrhgpygrkj.fun IN CNAME .
@@ -57606,8 +57608,6 @@ oardilin.com IN CNAME .
 *.oardilin.com IN CNAME .
 oarouwousti.com IN CNAME .
 *.oarouwousti.com IN CNAME .
-oarsoathaihoamt.net IN CNAME .
-*.oarsoathaihoamt.net IN CNAME .
 oarsparttimeparent.com IN CNAME .
 *.oarsparttimeparent.com IN CNAME .
 oarssamgrandparents.com IN CNAME .
@@ -57910,8 +57910,6 @@ ofdittor.com IN CNAME .
 *.ofdittor.com IN CNAME .
 ofdnkro.xyz IN CNAME .
 *.ofdnkro.xyz IN CNAME .
-ofdomjzpix.com IN CNAME .
-*.ofdomjzpix.com IN CNAME .
 ofdrapiona.com IN CNAME .
 *.ofdrapiona.com IN CNAME .
 ofebyk.xyz IN CNAME .
@@ -69838,6 +69836,8 @@ ru4.com IN CNAME .
 *.ru4.com IN CNAME .
 ruamupr.com IN CNAME .
 *.ruamupr.com IN CNAME .
+ruancq.xyz IN CNAME .
+*.ruancq.xyz IN CNAME .
 rubanners.com IN CNAME .
 *.rubanners.com IN CNAME .
 rubberdescendantfootprints.com IN CNAME .
@@ -86306,8 +86306,6 @@ vatizon.com IN CNAME .
 *.vatizon.com IN CNAME .
 vatzxd.xyz IN CNAME .
 *.vatzxd.xyz IN CNAME .
-vaufekonaub.net IN CNAME .
-*.vaufekonaub.net IN CNAME .
 vaugroar.com IN CNAME .
 *.vaugroar.com IN CNAME .
 vaukoloon.net IN CNAME .
@@ -86420,8 +86418,6 @@ vbhuivr.com IN CNAME .
 *.vbhuivr.com IN CNAME .
 vbiakpu.icu IN CNAME .
 *.vbiakpu.icu IN CNAME .
-vboro.de IN CNAME .
-*.vboro.de IN CNAME .
 vbrbgki.com IN CNAME .
 *.vbrbgki.com IN CNAME .
 vbrusdiifpfd.com IN CNAME .
@@ -89930,8 +89926,6 @@ wittilyfrogleg.com IN CNAME .
 *.wittilyfrogleg.com IN CNAME .
 wivtuhoftat.com IN CNAME .
 *.wivtuhoftat.com IN CNAME .
-wiwarrkazg.com IN CNAME .
-*.wiwarrkazg.com IN CNAME .
 wiwlqc.xyz IN CNAME .
 *.wiwlqc.xyz IN CNAME .
 wixlabs-adsense-v3.uc.r.appspot.com IN CNAME .
@@ -91138,8 +91132,6 @@ xhsdwjes.xyz IN CNAME .
 *.xhsdwjes.xyz IN CNAME .
 xhubsxmg.xyz IN CNAME .
 *.xhubsxmg.xyz IN CNAME .
-xhulafpup.com IN CNAME .
-*.xhulafpup.com IN CNAME .
 xhvaqgs.com IN CNAME .
 *.xhvaqgs.com IN CNAME .
 xhwwcif.com IN CNAME .
@@ -92260,6 +92252,8 @@ yopard.com IN CNAME .
 *.yopard.com IN CNAME .
 yoredi.com IN CNAME .
 *.yoredi.com IN CNAME .
+yorkvillemarketing.net IN CNAME .
+*.yorkvillemarketing.net IN CNAME .
 yoshatia.com IN CNAME .
 *.yoshatia.com IN CNAME .
 yottacash.com IN CNAME .
