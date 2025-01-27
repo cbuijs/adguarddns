@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1737850782 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1737937115 12h 15m 3w 3h
 0.code.cotsta.ru IN CNAME .
 *.0.code.cotsta.ru IN CNAME .
 0.myikas.com IN CNAME .
@@ -42,6 +42,8 @@ $TTL 3600
 *.01counter.com IN CNAME .
 01jud3v55z.com IN CNAME .
 *.01jud3v55z.com IN CNAME .
+02085170.xyz IN CNAME .
+*.02085170.xyz IN CNAME .
 023e6510cc.com IN CNAME .
 *.023e6510cc.com IN CNAME .
 023hysj.com IN CNAME .
@@ -1820,6 +1822,8 @@ $TTL 3600
 *.46bd8e62a2.com IN CNAME .
 46f4vjo86.com IN CNAME .
 *.46f4vjo86.com IN CNAME .
+47206262.xyz IN CNAME .
+*.47206262.xyz IN CNAME .
 47235645.xyz IN CNAME .
 *.47235645.xyz IN CNAME .
 47296536.xyz IN CNAME .
@@ -1994,6 +1998,8 @@ $TTL 3600
 *.4wnetwork.com IN CNAME .
 4wu3gf.cn IN CNAME .
 *.4wu3gf.cn IN CNAME .
+4zn.fun IN CNAME .
+*.4zn.fun IN CNAME .
 5.ccutu.com IN CNAME .
 *.5.ccutu.com IN CNAME .
 5.gzfenda.com IN CNAME .
@@ -2260,6 +2266,8 @@ $TTL 3600
 *.61t2ll6yy.com IN CNAME .
 61zdn1c9.skin IN CNAME .
 *.61zdn1c9.skin IN CNAME .
+62842068.xyz IN CNAME .
+*.62842068.xyz IN CNAME .
 62a77005fb.com IN CNAME .
 *.62a77005fb.com IN CNAME .
 62ca04e27a.com IN CNAME .
@@ -2268,6 +2276,8 @@ $TTL 3600
 *.62zd0.icu IN CNAME .
 634369.xyz IN CNAME .
 *.634369.xyz IN CNAME .
+63801782.xyz IN CNAME .
+*.63801782.xyz IN CNAME .
 63912b9175.com IN CNAME .
 *.63912b9175.com IN CNAME .
 639c909d45.com IN CNAME .
@@ -2286,6 +2296,8 @@ $TTL 3600
 *.64p3am9x95ct.com IN CNAME .
 65035033.xyz IN CNAME .
 *.65035033.xyz IN CNAME .
+65122038.xyz IN CNAME .
+*.65122038.xyz IN CNAME .
 656f1ba3.xyz IN CNAME .
 *.656f1ba3.xyz IN CNAME .
 657475b7-0095-478d-90d4-96ce440604f9.online IN CNAME .
@@ -2934,6 +2946,8 @@ $TTL 3600
 *.8q88n.icu IN CNAME .
 8s32e590un.com IN CNAME .
 *.8s32e590un.com IN CNAME .
+8sh.fun IN CNAME .
+*.8sh.fun IN CNAME .
 8stream-ai.com IN CNAME .
 *.8stream-ai.com IN CNAME .
 8suis.top IN CNAME .
@@ -45956,6 +45970,8 @@ h12-media.com IN CNAME .
 *.h12-media.com IN CNAME .
 h353.ncadvertiser.com IN CNAME .
 *.h353.ncadvertiser.com IN CNAME .
+h3d.fun IN CNAME .
+*.h3d.fun IN CNAME .
 h49vnk.cyou IN CNAME .
 *.h49vnk.cyou IN CNAME .
 h5.50db8hsdoq.shop IN CNAME .
@@ -48212,6 +48228,8 @@ hostingcloud.racing IN CNAME .
 *.hostingcloud.racing IN CNAME .
 hostip.info IN CNAME .
 *.hostip.info IN CNAME .
+hostolhg.com IN CNAME .
+*.hostolhg.com IN CNAME .
 hosupshunk.com IN CNAME .
 *.hosupshunk.com IN CNAME .
 hot-count.com IN CNAME .
@@ -65474,6 +65492,8 @@ nads.io IN CNAME .
 *.nads.io IN CNAME .
 naetoris.pw IN CNAME .
 *.naetoris.pw IN CNAME .
+naettarq.com IN CNAME .
+*.naettarq.com IN CNAME .
 naewynn.com IN CNAME .
 *.naewynn.com IN CNAME .
 naforeshow.org IN CNAME .
@@ -77274,6 +77294,8 @@ pubadx.one IN CNAME .
 *.pubadx.one IN CNAME .
 pubaka5.com IN CNAME .
 *.pubaka5.com IN CNAME .
+pubcircle.ai IN CNAME .
+*.pubcircle.ai IN CNAME .
 pubdirecte.com IN CNAME .
 *.pubdirecte.com IN CNAME .
 pubdisturbance.com IN CNAME .
@@ -91692,8 +91714,6 @@ stixeepou.com IN CNAME .
 *.stixeepou.com IN CNAME .
 stjpezyt.com IN CNAME .
 *.stjpezyt.com IN CNAME .
-stk.px-cloud.net IN CNAME .
-*.stk.px-cloud.net IN CNAME .
 stlog.d.dmkt-sp.jp IN CNAME .
 *.stlog.d.dmkt-sp.jp IN CNAME .
 stlog.dmarket.docomo.ne.jp IN CNAME .
@@ -111106,6 +111126,8 @@ xxsmad3.com IN CNAME .
 *.xxsmad3.com IN CNAME .
 xxsmad4.com IN CNAME .
 *.xxsmad4.com IN CNAME .
+xxsmad5.com IN CNAME .
+*.xxsmad5.com IN CNAME .
 xxss6677.com IN CNAME .
 *.xxss6677.com IN CNAME .
 xxx-babes.org IN CNAME .
